@@ -8,13 +8,13 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 sleep 1
 echo
-figlet "Welcome To My Tools"
+figlet "Welcome To Tools-Termux"
 sleep 1
-echo $yellow" ========================================================== "
+echo $yellow" ================================================================================= "
 echo $green" Author : Mr.X969 "
 echo $green" Team : Popeye "
 echo $green" Whatsapp : 085397907992 "
-echo $yellow" ========================================================== "
+echo $yellow" ================================================================================= "
 echo
 echo
 sleep 1
