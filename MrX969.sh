@@ -1,3 +1,4 @@
+
 clear
 blue='\033[34;1m'
 green='\033[32;1m'
@@ -35,7 +36,7 @@ echo $cyan"[6] Script RedHawk"
 sleep 0.5
 echo $yellow"[7] Script SQLMAP untuk deface dll."
 sleep 0.5
-echo $blue"[8] Virus Creater (Script Pembuat Virus)"
+echo $blue"[8] Phising Sosial Media (aktif)"
 sleep 0.5
 echo $red"[9] Script B4J1N94N"
 sleep 0.5
@@ -135,8 +136,17 @@ fi
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
-figlet "Tunggu Sebentar..."
-echo $green"Script RedHawk By Tuhinshubhra"
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[32;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+sleep 1
+echo
+toilet -f big -F gay Wait
+sleep 0.5
 pkg install php
 git clone https://github.com/Tuhinshubhra/RED_HAWK
 chmod +x rhawk.php
@@ -175,9 +185,13 @@ sleep 1
 echo
 toilet -f big -F gay Wait
 sleep 0.5
-git clone https://github.com/viruz09/CreaterVirus
-cd CreaterVirus
-python2 creater.py
+pkg install php
+pkg install curl
+pkg install wget
+pkg install openssh
+git clone https://github.com/thelinuxchoice/shellphish
+cd shellphish
+bash shellphish.sh
 fi
 if [ $bro = 9 ] || [ $bro = 9 ]
 then
