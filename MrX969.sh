@@ -46,7 +46,7 @@ echo $green"[0] Exit"
 sleep 0.5
 echo
 echo $green
-read -p "[Ketikan Nomor Script Yang Di Inginkan]>>" bro
+read -p "[Ketikan Nomor Script Yang Di Inginkan]>> " bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
